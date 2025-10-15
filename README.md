@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+I love dogs and all sorts of animals! My favorite land animal is a polar bear or a deer, my favorite sea animal is a dolphin, and my favorite bird is a hummingbird!
+
 <!--
 **Strawberry2Sea/Strawberry2Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+e are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
